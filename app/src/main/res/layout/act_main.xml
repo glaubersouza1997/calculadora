@@ -12,8 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="TextView"
-        tools:text="@string/lbl_valor1" />
+        android:text="@string/lbl_valor1" />
 
     <EditText
         android:id="@+id/edtValor1"
@@ -28,8 +27,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="TextView"
-        tools:text="@string/lbl_valor2" />
+        android:text="@string/lbl_valor2" />
 
     <EditText
         android:id="@+id/edtValor2"
@@ -44,7 +42,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="Button"
-        tools:text="@string/lbl_calcular" />
+        android:text="@string/lbl_calcular" />
 
 </LinearLayout>
